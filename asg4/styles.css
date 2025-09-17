@@ -1,8 +1,10 @@
 h1, h2 {
-  font-family: 
-}
-p, ul {
   font-family: "IBM Plex Serif", serif;
   font-weight: 700;
+  font-style: normal;
+}
+p, ul {
+  font-family: "Rationale", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
