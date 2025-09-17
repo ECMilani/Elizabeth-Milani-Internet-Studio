@@ -1,3 +1,8 @@
-p {
-  font-family: "Rationale", "Roboto Condensed", sans-serif;
+h1, h2 {
+  font-family: 
+}
+p, ul {
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 700;
+  font-style: normal;
 }
