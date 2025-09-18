@@ -1,10 +1,11 @@
-h1, h2 {
-  font-family: "Solway", serif;
-  font-weight: 500;
-  font-style: normal;
+.topbar {
+background-color: RebeccaPurple;
+text-align: left;
+color: White;
+font-size: 30;
 }
-p, ul, th, td {
-  font-family: "Rationale", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+
+.header {
+background-color: WhiteSmoke;
+text-align: center;
 }
