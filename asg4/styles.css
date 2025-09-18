@@ -1,8 +1,8 @@
 .topbar {
   background-color: RebeccaPurple;
   text-align: left;
-  color: White;
-  font-size: 30;
+  link-color: White;
+  font-size: 50;
 }
 
 .header {
