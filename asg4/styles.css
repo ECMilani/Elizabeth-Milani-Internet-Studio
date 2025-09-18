@@ -1,11 +1,20 @@
 .topbar {
-background-color: RebeccaPurple;
-text-align: left;
-color: White;
-font-size: 30;
+  background-color: RebeccaPurple;
+  text-align: left;
+  color: White;
+  font-size: 30;
 }
 
 .header {
-background-color: WhiteSmoke;
-text-align: center;
+  background-color: WhiteSmoke;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  color: RebeccaPurple;
+}
+
+body {
+  background-image: url('https://texturelabs.org/wp-content/uploads/Texturelabs_Grunge_292S.jpg');
 }
