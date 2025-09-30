@@ -64,7 +64,6 @@ body {
 	margin-top: 10px;
 	margin-bottom: 20px;
 	width: 45%;
-	margin: auto;
 }
 
 h2, h3 {
@@ -79,6 +78,8 @@ p, li {
 }
 
 img {
+	display: block;
+  	margin: auto;
 	width: 60%;
 	bottom-padding: 15px;
 }
