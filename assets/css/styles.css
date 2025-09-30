@@ -70,6 +70,7 @@ h2, h3 {
 	color: crimson;
 	font-family: "Vidaloka", serif;
 	text-align: center;
+	padding-top: 20px;
 }
 
 p, li {
@@ -79,5 +80,5 @@ p, li {
 
 img {
 	width: 60%;
-	text-align: center;
+	image-align: center;
 }
