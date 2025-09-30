@@ -23,6 +23,40 @@ body {
 	font-family: "Vidaloka", serif;
 	font-size: 15px;
 	text-shadow: 1px 2px 5px black;
-	padding-top: 3px;
+	padding-top: 0px;
 	letter-spacing: 5px;
+}
+
+#aboutme {
+	background-color: white;
+	border-radius: 20px;
+	padding: 30px 10px 30px 20px;
+	text-align: justify;
+	margin: 0 auto;
+}
+
+#assignments {
+	background-color: white;
+	border-radius: 20px;
+	padding: 30px 10px 30px 20px;
+	text-align: justify;
+	margin: 0 auto;
+}
+
+#media {
+	background-color: white;
+	border-radius: 20px;
+	padding: 30px 10px 30px 20px;
+	margin: 0 auto;
+}
+
+h2, h3 {
+	color: crimson;
+	font-family: "Vidaloka", serif;
+	text-align: center;
+}
+
+p, li {
+	color: black;
+	font-family: "Roboto", sans-serif;
 }
