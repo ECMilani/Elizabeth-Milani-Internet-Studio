@@ -3,7 +3,11 @@ body {
 }
 
 #main {
-	background-color: Red;
+	color: white;
+	background-color: crimson;
 	text-align: center;
 	margin: 0 auto;
+	padding: 30px 50px;
+	min-width: 350px;
+	max-width: 900px;
 }
