@@ -79,5 +79,6 @@ p, li {
 
 img {
 	width: 60%;
-	image-align: center;
+	margin: auto;
+	bottom-padding: 15px;
 }
