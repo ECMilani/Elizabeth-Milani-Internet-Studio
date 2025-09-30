@@ -74,3 +74,7 @@ p, li {
 	color: black;
 	font-family: "Roboto", sans-serif;
 }
+
+img {
+	width: 30%;
+}
