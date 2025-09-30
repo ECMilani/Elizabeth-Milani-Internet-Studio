@@ -39,6 +39,7 @@ body {
 	margin-top: 10px;
 	margin-bottom: 20px;
 	width: 45%;
+	opacity: 90%;
 }
 
 #assignments {
@@ -51,6 +52,7 @@ body {
 	margin-top: 10px;
 	margin-bottom: 20px;
 	width: 45%;
+	opacity: 90%;
 }
 
 #media {
@@ -77,4 +79,5 @@ p, li {
 
 img {
 	width: 30%;
+	text-align: center;
 }
