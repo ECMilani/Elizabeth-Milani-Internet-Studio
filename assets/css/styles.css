@@ -5,6 +5,7 @@ body {
 #main {
 	color: white;
 	background-color: crimson;
+	border-radius: 20px;
 	text-align: center;
 	margin: 0 auto;
 	padding: 30px 50px;
