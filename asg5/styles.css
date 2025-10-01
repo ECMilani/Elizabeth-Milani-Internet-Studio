@@ -2,10 +2,6 @@ body {
   background-color: black;
 }
 
-.topbar {
-  text-align: center;
-}
-
 .dabi, .jinx, .xielian {
   display: grid;
   align-items: center; 
