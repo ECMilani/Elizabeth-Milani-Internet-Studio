@@ -46,3 +46,15 @@ img {
 	margin-bottom: 20px;
 	width: 45%;
 }
+
+.rsvp {
+	background-color: white;
+	text-align: center;
+	border-radius: 10px;
+	padding: 30px 10px 30px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	width: 45%;
+}
