@@ -2,6 +2,15 @@ body {
   background-color: black;
 }
 
+.topbar {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px 5px;
+  text-align: center;
+  margin: 0, auto;
+  width: 55%;
+}
+
 .dabi, .jinx, .xielian {
   display: grid;
   align-items: center; 
