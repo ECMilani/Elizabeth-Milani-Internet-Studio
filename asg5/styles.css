@@ -7,7 +7,10 @@ body {
   border-radius: 10px;
   padding: 30px 10px 30px 20px;
   text-align: center;
-  margin: 0, auto;
+  margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
   font-size: 55%;
   width: 55%;
 }
@@ -17,7 +20,10 @@ body {
   text-color: white;
   border-radius: 10px;
   padding: 30px 10px 30px 20px;
-  margin: 0, auto;
+  margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
   width: 55%;
 }
 
