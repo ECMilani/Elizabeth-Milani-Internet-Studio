@@ -58,3 +58,13 @@ img {
 	margin-bottom: 20px;
 	width: 45%;
 }
+
+h1, h2, h3 {
+	font-family: "Sacramento", cursive;
+	text-align: center;
+}
+
+p, li, label {
+	font-family: "Vidaloka", serif;
+	text-align: justify;
+}
