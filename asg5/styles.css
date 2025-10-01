@@ -1,3 +1,14 @@
+body {
+  background-color: black;
+}
+
+.topbar {
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  width: 55%;
+}
+
 .dabi, .jinx, .xielian {
   display: grid;
   align-items: center; 
