@@ -5,7 +5,7 @@ body {
 .topbar {
   background-color: white;
   border-radius: 10px;
-  padding: 5px 5px;
+  padding: 30px 10px 30px 20px;
   text-align: center;
   margin: 0, auto;
   font-size: 55%
@@ -16,7 +16,7 @@ body {
   background-color: crimson;
   text-color: white;
   border-radius: 10px;
-  padding: 10px 10px;
+  padding: 30px 10px 30px 20px;
   margin: 0, auto;
   width: 55%;
 }
