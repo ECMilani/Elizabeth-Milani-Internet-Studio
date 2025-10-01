@@ -31,7 +31,7 @@ body {
 .dabi, .jinx, .xielian {
   display: grid;
   align-items: center; 
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   column-gap: 1px;
 	background-color: white;
 	border-radius: 10px;
@@ -40,10 +40,9 @@ body {
 	margin-right: auto;
 	margin-top: 10px;
 	margin-bottom: 20px;
-	font-size: 100%;
 	width: 55%;
 }
 
 img {
-  width: 45%
+  width: 100%
 }
