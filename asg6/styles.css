@@ -33,12 +33,16 @@ body {
 
 header {
       position: relative;
+      width: 100%;
+      background-color: white;
+      text-align: center;
       top: 0px;
       left: 0px;
-      text-align: center;
-      background-color: white;
-      width: 120%;
       padding-top: 50px;
       padding-bottom: 7px;
       z-index: 8;
+}
+
+h1 {
+      
 }
