@@ -5,9 +5,19 @@
       background-color: #A62FFA;
 }
 
-li {
+.navigation li {
       display: inline-block;
       color: #ffffff;
+}
+
+/* unvisited link */
+.navigation a:link, a:visited {
+      color: #ffffff;
+}
+
+/* mouse over link */
+.navigation a:hover {
+  color: black;
 }
 
 header {
