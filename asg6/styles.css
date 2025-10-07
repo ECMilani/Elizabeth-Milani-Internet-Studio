@@ -13,7 +13,7 @@
       text-align: center;
 }
 
-/* unvisited link */
+/* link color */
 .navigation a:link, a:visited {
       color: #ffffff;
 }
@@ -24,6 +24,6 @@
 }
 
 header {
-      position: relative;
       top: 50px;
+      position: static;
 }
