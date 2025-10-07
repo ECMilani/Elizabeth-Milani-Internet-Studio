@@ -1,3 +1,5 @@
+/* Navigation Bar */
+
 .navigation {
       position: fixed;
       width: 100%;
@@ -14,14 +16,18 @@
       margin-right: 15px;
 }
 
-/* link color */
 .navigation a:link, a:visited {
       color: #ffffff;
 }
 
-/* mouse over link */
 .navigation a:hover {
   color: black;
+}
+
+/* End of navigation bar css */
+
+html {
+      background-image:
 }
 
 header {
