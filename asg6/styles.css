@@ -47,5 +47,5 @@ header {
 h1 {
       color: #A62FFA;
       font-family: "Indie Flower", cursive;
-      background-image: url('./images/greenhat.png');
+      font-size: 6em;
 }
