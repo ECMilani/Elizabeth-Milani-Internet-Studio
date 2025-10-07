@@ -8,6 +8,7 @@
       top: 0px;
       left: 0px;
       opacity: 75%;
+      z-index: 9;
 }
 
 .navigation li {
@@ -36,7 +37,8 @@ header {
       right: 0px;
       text-align: center;
       background-color: white;
-      width: 100%;
+      width: 120%;
       padding-top: 50px;
       padding-bottom: 7px;
+      z-index: 8;
 }
