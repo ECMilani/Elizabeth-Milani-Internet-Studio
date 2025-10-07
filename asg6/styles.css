@@ -49,6 +49,5 @@ h1 {
       font-family: "Indie Flower", cursive;
       background-image: url('./images/greenhat.png');
       background-repeat: no-repeat;
-      background-size: 30%;
-      float: bottom;
+      background-position: top center;
 }
