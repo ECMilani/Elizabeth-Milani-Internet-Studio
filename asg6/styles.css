@@ -2,10 +2,12 @@
       position: fixed;
       width: 100%;
       text-align: center;
+      background-color: #A62FFA;
 }
 
 li {
       display: inline-block;
+      color: #ffffff;
 }
 
 header {
