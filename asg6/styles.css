@@ -2,6 +2,7 @@
       position: fixed;
       width: 100%;
       background-color: #A62FFA;
+      text-align: center;
       top: 0px;
       left: 0px;
 }
@@ -10,7 +11,6 @@
       display: inline-block;
       color: #ffffff;
       margin-right: 15px;
-      text-align: center;
 }
 
 /* link color */
@@ -25,5 +25,5 @@
 
 header {
       top: 50px;
-      position: static;
+      position: relative;
 }
