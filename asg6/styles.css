@@ -3,12 +3,14 @@
       width: 100%;
       text-align: center;
       background-color: #A62FFA;
-      margin: 0 auto;
+      top: 0px;
+      left: 0px;
 }
 
 .navigation li {
       display: inline-block;
       color: #ffffff;
+      margin-right: 5px;
 }
 
 /* unvisited link */
