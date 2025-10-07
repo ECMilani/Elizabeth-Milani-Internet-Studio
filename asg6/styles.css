@@ -1,8 +1,11 @@
 .navigation {
       position: fixed;
       width: 100%;
-      display: inline-block;
       text-align: center;
+}
+
+li {
+      display: inline-block;
 }
 
 header {
