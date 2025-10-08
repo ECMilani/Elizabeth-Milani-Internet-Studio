@@ -32,6 +32,8 @@ body {
       background-image: url('./images/webb-dark.png');
 }
 
+/* header */
+
 header {
       position: relative;
       width: 100%;
@@ -48,4 +50,14 @@ h1 {
       color: #A62FFA;
       font-family: "Indie Flower", cursive;
       font-size: 2em;
+}
+
+/* body */
+
+.interview {
+      float: right;
+}
+
+.project {
+      float: left;
 }
