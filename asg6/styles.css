@@ -57,10 +57,10 @@ h1 {
 .interview {
       float: right;
       background-color: white;
-      width: 48%;
+      width: 49%;
       z-index: 7;
       margin-top: 50px;
-      padding: 0 auto;
+      padding-left: 7px;
       overflow-x: hidden;
       font-family: "Schibsted Grotesk", sans-serif;
 }
@@ -68,10 +68,10 @@ h1 {
 .project {
       float: left;
       background-color: white;
-      width: 48%;
+      width: 49%;
       z-index: 7;
       margin-top: 50px;
-      padding: 0 auto;
+      padding-left: 7px;
       overflow-x: hidden;
       font-family: "Schibsted Grotesk", sans-serif;
 }
