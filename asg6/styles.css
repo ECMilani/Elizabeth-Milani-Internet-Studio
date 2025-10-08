@@ -57,18 +57,17 @@ h1 {
 .interview {
       float: right;
       background-color: white;
-      width: 45%;
+      width: 50%;
       z-index: 7;
-      top: 500px;
-      left: 100px;
+      padding-top: 200px;
       overflow-x: hidden;
 }
 
 .project {
       float: left;
       background-color: white;
-      width: 45%;
-      top: 500px;
-      right: 100px;
+      width: 50%;
+      z-index: 7;
+      padding-top: 200px;
       overflow-x: hidden;
 }
