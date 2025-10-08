@@ -79,3 +79,7 @@ h1 {
 h2, h3 {
      font-family: "Indie Flower", cursive; 
 }
+
+.projhead {
+      background-image: url('./images/greenhat.png');
+}
