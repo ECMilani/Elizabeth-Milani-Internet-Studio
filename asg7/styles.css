@@ -76,7 +76,7 @@ h2 {
 
 .hobbesimg {
       float: left;
-      width: 10%;
+      width: 20%;
 }
 
 aside {
@@ -89,6 +89,12 @@ aside {
       right: 400px;
       margin-right: 400px;
       margin-top: 100px;
+}
+
+.bongoimg {
+      width: 20%;
+      display: flex;
+      justify-content: center;
 }
 
 .info {
