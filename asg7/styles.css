@@ -1,1 +1,53 @@
+.navigation {
+      position: fixed;
+      width: 100%;
+      background-color: #A62FFA;
+      text-align: center;
+      top: 0px;
+      left: 0px;
+      opacity: 75%;
+      z-index: 9;
+}
 
+.navigation li {
+      display: inline-block;
+      color: #ffffff;
+      margin-right: 15px;
+      font-family: "Schibsted Grotesk", sans-serif;
+}
+
+.navigation a:link, a:visited {
+      color: #ffffff;
+}
+
+.navigation a:hover {
+  color: black;
+}
+
+/* End of navigation bar css */
+
+body {
+      background-image: url('./images/webb-dark.png');
+}
+
+/* header */
+
+header {
+      position: relative;
+      width: 100%;
+      background-color: white;
+      text-align: center;
+      top: 0px;
+      left: 0px;
+      padding-top: 50px;
+      padding-bottom: 7px;
+      z-index: 8;
+}
+
+h1 {
+      color: #A62FFA;
+      font-family: "Indie Flower", cursive;
+      font-size: 2em;
+}
+
+/* body */
