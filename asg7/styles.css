@@ -70,6 +70,7 @@ h2 {
       overflow-x: hidden;
       top: 1000px;
       left: 400px;
+      margin-left: 400px;
 }
 
 .hobbesimg {
@@ -85,6 +86,7 @@ aside {
       overflow-x: hidden;
       top: 1000px;
       right: 400px;
+      margin-right: 400px;
 }
 
 .info {
