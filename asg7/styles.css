@@ -93,8 +93,8 @@ aside {
 
 .bongoimg {
       width: 20%;
-      display: flex;
-      justify-content: center;
+      display: block;
+      margin: auto;
 }
 
 .info {
