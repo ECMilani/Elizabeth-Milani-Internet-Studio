@@ -66,12 +66,22 @@ h2 {
       float: left;
       background-color: white;
       width: 60%;
-      left: 10px;
+      padding-left: 20px;
+      overflow-x: hidden;
+}
+
+.hobbesimg {
+      float: left;
+}
+
+.bio, .platform, .link {
+      float: right;
 }
 
 aside {
       float: right;
       background-color: white;
       width: 30%;
-      left: 10px;
+      padding-right: 20px;
+      overflow-x: hidden;
 }
