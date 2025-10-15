@@ -68,8 +68,8 @@ h2 {
       width: 45%;
       padding: 20px 20px 20px 20px;
       overflow-x: hidden;
-      top: 500px;
-      left: 30px;
+      top: 1000px;
+      left: 400px;
 }
 
 .hobbesimg {
@@ -83,8 +83,8 @@ aside {
       width: 20%;
       padding: 20px 20px 20px 20px;
       overflow-x: hidden;
-      top: 500px;
-      right: 30px;
+      top: 1000px;
+      right: 400px;
 }
 
 .info {
