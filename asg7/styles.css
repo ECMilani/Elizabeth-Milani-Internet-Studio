@@ -68,6 +68,8 @@ h2 {
       width: 60%;
       padding-left: 20px;
       overflow-x: hidden;
+      display: flex;
+      margin: auto;
 }
 
 .hobbesimg {
