@@ -142,4 +142,11 @@ h2 {
 	margin-bottom: 10px;
 }
 
+.main li {
+	margin-bottom: 10px;
+	padding-left: 22px;
+	line-height: 22px;
+	word-spacing: 5px;
+}
+
 /* end main styles */
