@@ -58,3 +58,30 @@ h2 {
 }
 
 /* End overarching styles */
+
+/* navigation styles */
+
+.navitgation {
+	position: fixed;
+	width: 100%;
+	background-color: #A4C2A5;
+	text-align: center;
+	opacity: 75%;
+}
+
+.navigation li {
+	display: inline-block;
+	color: #F1F2EB;
+	font-family: "Neuton", serif;
+	font-size: 2.37em;
+}
+
+.navigation a:link, a:visited {
+	color: #F1F2EB;
+}
+
+.navigation a:hover {
+	color: #1C1C1C;
+}
+
+/* end navigation styles */
