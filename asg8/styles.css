@@ -109,3 +109,15 @@ h2 {
 }
 
 /* end header styles */
+
+/* begin main styles */
+
+.main {
+	background-color: #F1F2EB;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-bottom: auto;
+	max-width: 900px;
+}
+
+/* end main styles */
