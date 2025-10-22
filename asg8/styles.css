@@ -66,21 +66,18 @@ h2 {
 	width: 100%;
 	background-color: #A4C2A5;
 	text-align: center;
-	opacity: 75%;
-	font-size: 10px;
+	font-size: 2.37em;
 }
 
 .navigation li {
 	display: inline-block;
 	color: #F1F2EB;
 	font-family: "Neuton", serif;
-	font-size: 2.37em;
 }
 
 .navigation a:link, a:visited {
 	color: #F1F2EB;
 	font-family: "Neuton", serif;
-	font-size: 2.37em;
 }
 
 .navigation a:hover {
