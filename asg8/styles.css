@@ -36,7 +36,7 @@ html {
 	font-size: 10px;
 }
 
-p, li, a:link, a:visited {
+p, li {
 	text-align: justify;
 	color: #1C1C1C;
 	font-family: "Source Sans 3", "Roboto", sans-serif;
