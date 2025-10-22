@@ -125,4 +125,10 @@ h2 {
 	max-width: 900px;
 }
 
+.main h2 {
+	font-weight: 700;
+	padding-bottom: 20px;
+	border-bottom: thick solid #826C7F;
+}
+
 /* end main styles */
