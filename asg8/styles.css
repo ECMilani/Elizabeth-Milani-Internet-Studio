@@ -132,4 +132,10 @@ h2 {
 	margin-bottom: 15px;
 }
 
+.main p {
+	margin-bottom: 10px;
+	line-height: 7px;
+	word-spacing: 5px;
+}
+
 /* end main styles */
