@@ -1,0 +1,149 @@
+/* reset browser styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1.2;
+}
+ol { 
+	padding-left: 1.4em;
+	list-style: decimal;
+}
+ul {
+	padding-left: 1.4em;
+	list-style: square;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+} 
+/* end reset browser styles */
+
+/* OVERARCHING STYLES */
+
+/* cinzel-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/cinzel-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* fauna-one-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fauna One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/fauna-one-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+body {
+  font-size: 18px;
+  background-color: #E9E3E6;
+}
+
+/* header styles */
+
+header h1 {
+  background-color: #9A8F97;
+  width: 100%;
+  color: #070707;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 4.21em;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+header p {
+  background-color: #C3BABA;
+  width: 90%;
+  color: #542344;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Fauna One', serif;
+  font-size: 1em;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 10px;
+}
+
+/* movies */
+
+.container {
+  display: grid;
+  grid-auto-columns: 350px;
+  grid-auto-flow: column;
+  overflow-x: auto;
+  align-items: stretch;
+  justify-items: center;
+}
+
+#thriller, #action, #fantasy, #romance, #drama, #mystery {
+  background-color: #9A8F97;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+#horror, #scifi, #western, #comedy, #martial, #random {
+  background-color: #C3BABA;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.container img {
+  width: 300px;
+  height: 450px;
+  border-radius: 10px;
+}
+
+.container p {
+  width: 280px;
+  font-family: 'Fauna One', serif;
+  color: #070707;
+  font-size: .75em;
+  text-align: justify;
+  background-color: #E9E3E6;
+  border-radius: 10px;
+  padding: 10px;
+  line-height: 18px;
+  height: 150px;
+}
+
+.container h2 {
+  width: 280px;
+  font-family: 'Cinzel', serif;
+  color: #542344;
+  font-size: 1.33em;
+  text-align: left;
+  background-color: #E9E3E6;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 60px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+#thriller h2, #horror h2, #action h2, #scifi h2, #fantasy h2, #western h2, #comedy h2, #drama h2, #mystery h2, #random h2 {
+  line-height: 60px;
+}
